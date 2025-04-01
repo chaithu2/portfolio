@@ -27,7 +27,7 @@ function App() {
       <section className="mb-8">
         <h2 className="text-2xl font-semibold">Projects</h2>
         <ul className="list-disc pl-6 text-gray-300">
-          <li>Personal Portfolio Website - Deployed on AWS EC2</li>
+          <li>Personal Portfolio Website - Deployed using Vercel</li>
           <li>Code Recommendation System - ML Integrated</li>
           <li>Face Recognition App - Python and OpenCV</li>
         </ul>
